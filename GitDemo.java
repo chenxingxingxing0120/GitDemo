@@ -3,5 +3,6 @@ public class GitDemo {
         System.out.println("Hello strong Git!!!");
    	System.out.println("Hello World!!!");
 	System.out.println("Hello GiuHub");
+	System.out.println("Hello strong GiuHub");
     }
 }
